@@ -1,4 +1,4 @@
-Este repositorio contiene mi proyecto final de QA Testing, donde se aplicaron diferentes técnicas de aseguramiento de calidad para evaluar aplicaciones web y servicios API. El trabajo incluyó la creación y ejecución de casos de prueba, reporte de defectos, pruebas de rendimiento y validación de servicios REST.
+Este repositorio contiene mi proyecto final de QA Testing en CODERHOUSE, donde se aplicaron diferentes técnicas de aseguramiento de calidad para evaluar aplicaciones web y servicios API. El trabajo incluyó la creación y ejecución de casos de prueba, reporte de defectos, pruebas de rendimiento y validación de servicios REST.
 
 Contenido del Proyecto
 Pruebas Funcionales - Tiendamia
